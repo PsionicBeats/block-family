@@ -1,0 +1,25 @@
+body {
+	background-color: #FF9900;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+	font-size: 75px;
+}
+
+div {
+	text-align: center;
+	font-size: 30px;
+	width: 350px;
+	height: 60px;
+	padding-top: 35px;
+	background-color: #000;
+	color: #FFF;
+	margin: 10px;
+}
+
+@media {
+
+
+}
